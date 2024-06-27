@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
     // 默认最大亮度
-    int max_light = MAX_LIGHT;
+    int max_light = 0;
     // 默认当前亮度
     int light = 0;
 

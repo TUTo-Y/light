@@ -8,7 +8,6 @@
 #include <sys/types.h>
 
 #define PATH "/sys/class/backlight/intel_backlight"
-#define MAX_LIGHT 496
 
 // 输出字体颜色
 #define RESET "\x1B[0m"  // 重置为默认颜色
